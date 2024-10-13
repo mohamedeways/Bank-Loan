@@ -68,6 +68,7 @@ KPIs/Scorecards: For quick viewing of key performance indicators like total disb
 
 ![MasterHead]([https://github.com/mohamedeways/Bank-Loan/blob/main/Screens/Screenshot%20(162).png](https://github.com/mohamedeways/Bank-Loan/blob/main/Screens/Screenshot%20(163).png))
 
+[![Customer Segmentation Based on RFM](https://github.com/mohamedeways/Bank-Loan/blob/main/Screens/Screenshot%20(162).png)]  
 
 
 🖥️🖥️ Implementation Steps:
