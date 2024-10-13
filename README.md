@@ -66,9 +66,9 @@ Line Charts: To track trends over time (e.g., loan disbursement trends, interest
 Heat Maps: For geographic analysis, showing loans or defaults by region.
 KPIs/Scorecards: For quick viewing of key performance indicators like total disbursed loans, average loan size, and default rate.
 
-![MasterHead]([https://github.com/mohamedeways/Bank-Loan/blob/main/Screens/Screenshot%20(162).png](https://github.com/mohamedeways/Bank-Loan/blob/main/Screens/Screenshot%20(163).png))
 
-[![Customer Segmentation Based on RFM](https://github.com/mohamedeways/Bank-Loan/blob/main/Screens/Screenshot%20(162).png)]  
+
+[![Customer Segmentation Based on RFM]([https://github.com/mohamedeways/Bank-Loan/blob/main/Screens/Screenshot%20(162).png](https://github.com/mohamedeways/Bank-Loan/blob/main/Screens/Screenshot%20(163).png))]  
 
 
 🖥️🖥️ Implementation Steps:
